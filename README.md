@@ -11,7 +11,7 @@ MAIN FEATURES OF THE APP:
 2. It will detect the Face and Recognize it with different parameters.
 3. The images that will take up by the face detector will store it in local system.
 4. Shows the parameters on the candidates Face and takes up the attendance automatically in csv(comma separated file) and also in the Excel Sheet.
-5. Also you can export the file by giving a new sheet name.
+5. Also you can export the file by giving a new sheet name as per your requirement.
 
 Install All the modules mentioned below:
 1. pip install tk-tools
