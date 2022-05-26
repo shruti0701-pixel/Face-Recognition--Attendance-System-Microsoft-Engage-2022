@@ -13,6 +13,17 @@ MAIN FEATURES OF THE APP:
 4. Shows the parameters on the candidates Face and takes up the attendance automatically in csv(comma separated file) and also in the Excel Sheet.
 5. Also you can export the file by giving a new sheet name.
 
+Install All the modules mentioned below:
+1. pip install tk-tools
+2. pip install opencv-contrib-python
+3. pip install datetime
+4. pip install python-csv
+5. pip install numpy
+6. pip install pillow 
+7. pip install times
+8. Install MYSql Workbench
+
+
 TECHNOLOGY USED:
 Python, OpenCv with Tkinter GUI and MySql Workbench(for data storing like Student details,attendance details, login details, registeration form, forgot password)
 
