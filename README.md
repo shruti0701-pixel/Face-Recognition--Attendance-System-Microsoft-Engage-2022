@@ -14,14 +14,15 @@ MAIN FEATURES OF THE APP:
 5. Also you can export the file by giving a new sheet name as per your requirement.
 
 Install All the modules mentioned below:
-1. pip install tk-tools
-2. pip install opencv-contrib-python
-3. pip install datetime
-4. pip install python-csv
-5. pip install numpy
-6. pip install pillow 
-7. pip install times
-8. Install MYSql Workbench
+1. Install Latest Version of Python.
+2. pip install tk-tools
+3. pip install opencv-contrib-python
+4. pip install datetime
+5. pip install python-csv
+6. pip install numpy
+7. pip install pillow 
+8. pip install times
+9. Install MYSql Workbench
 
 
 TECHNOLOGY USED:
