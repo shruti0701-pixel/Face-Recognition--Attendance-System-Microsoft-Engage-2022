@@ -4,7 +4,7 @@ According to the challenges given in Engage 2022, I have taken up the challenge 
 Problem Statement 1 - Face Recognition - Student Attendance Management System.
 
 Documentation of my Project -> https://docs.google.com/presentation/d/1_mmBIn9VhT2qTwJH2RDzbLIvV52K4JsmpTQI8FQjx-o/edit#slide=id.g12d37ee8451_0_0
-Video Link ->
+Video Link -> https://youtu.be/5gp9vyzrTCQ
 
 MAIN FEATURES OF THE APP:
 1. All sections are differently built to make the user more convinient and easy to use.
